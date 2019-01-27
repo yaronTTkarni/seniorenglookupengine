@@ -18,5 +18,5 @@ The engine assists the candidate whether he match to the senior engineer positio
 # Installation
   - please read the code
   - have a score
-  - score > 70, send me your cv
+  - score > 70, send your cv to yaron.karni@ecitele.com
   
